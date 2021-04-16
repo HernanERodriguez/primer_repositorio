@@ -1,2 +1,4 @@
 Linea inicial
 Segunda linea
+
+Se resuelve el inc_2
