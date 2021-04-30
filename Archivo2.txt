@@ -11,6 +11,7 @@ Segunda linea
 Se resuelve 1A-Tarea1
 Se resuelve el inc_2
 
+Otro cambio después del revert
 Cambio de la prueba_1
 
 Cambio en prueba_2
